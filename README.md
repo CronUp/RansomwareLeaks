@@ -1,3 +1,3 @@
 # RansomwareLeaks
 
-Código fuente o builders recopilados desde distintas familias de ransomware.
+Código fuente, builders o decrypters recopilados desde distintas familias de ransomware.
